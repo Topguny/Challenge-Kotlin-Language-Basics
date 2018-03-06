@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
     var lost = true
     var expensive = true
     val choice: Int = 2
-    val integral: Char = '?'
+    val integral: Char = '\u222B'
     val greeting = "Hello"
     var name = "Karen"
     
